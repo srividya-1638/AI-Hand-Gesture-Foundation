@@ -1,0 +1,14 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Conda environment folders
+conda-meta/
+
+# VS Code settings
+.vscode/
